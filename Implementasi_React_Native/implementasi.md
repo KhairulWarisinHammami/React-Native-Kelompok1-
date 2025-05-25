@@ -42,7 +42,7 @@ cd Contoh-App
 
 Setelah inisiasi Berikut Struktur folder dari hasil inisiasi sebelumnya:
 
-! [Struktur Folder](https://github.com/KhairulWarisinHammami/React-Native-Kelompok1-/blob/Waris-Implementasi_React_Native/Implementasi_React_Native/Images/Struktur%20Folder.png)
+![Struktur Folder](https://github.com/KhairulWarisinHammami/React-Native-Kelompok1-/blob/Waris-Implementasi_React_Native/Implementasi_React_Native/Images/Struktur%20Folder.png)
 
 ### c. Kode Contoh “Hello, React Native!” dengan Counter
 
