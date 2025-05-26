@@ -10,4 +10,12 @@
 
  **React Native** adalah sebuah kerangka kerja yang memungkinkan pengembangan aplikasi native dengan menggunakan JavaScript, yang  ditujukan untuk pengembangan aplikasi mobile. React Native menawarkan prinsip "learn once, write everywhere". meskipun demikian, React Native tergolong teknologi yang relatif baru dan masih memiliki beberapa kelemahan, terutama dalam hal proses penelusuran debugging dan kompatibilitas antar platform. Sedangkan **ReactJS** merupakan pustaka JavaScript yang digunakan untuk membangun komponen antarmuka pengguna pada aplikasi berbasis web. ReactJS juga ditujukan untuk pengembangan aplikasi web. 
 
- 
+Tabel Perbandingan Singkat  
+| Aspek | React Native | ReactJS |
+|:---|:---|:---|
+| Target Plaatform | Mobile (Android & iOS) | Web Browser |  
+| UI Rendering | Komponen Native (View, Text, dll) | HTML dan DOM |  
+| Styling | JS-based styling) | CSS |
+| Akses Perangkat | Lengkap (kamera, GPS, dll)) | Terbatas (via browser API) |
+| Bahasa Tambahan | JS + Native Modules (Java, Swift) | HTML, CSS, JS |
+| Output | Aplikasi Mobile | Website |  
