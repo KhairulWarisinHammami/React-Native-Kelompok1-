@@ -1,0 +1,55 @@
+Apa itu React Native?  
+
+adalah framework mobile app development yang memungkinkan pengembangan aplikasi secara multi-platform yaitu Android dan iOS.  
+Sederhananya, React Native adalah framework yang memungkinkan developer membuat aplikasi untuk berbagai platform dengan menggunakan basis kode yang sama.  
+Lewat website resmi React Native, mereka mengklaim bahwa framework berbasis JavaScript tersebut adalah cara yang terbaik untuk membangun user interface mobile app.  
+Penggabungan antara native mobile app dan React juga bisa dilakukan dengan mudah. Jadi, pengembang bisa membuat aplikasi Android dan iOS dengan lebih cepat.  
+React Native sendiri pertama kali dirilis pada tahun 2015 oleh Facebook dan menjadi bagian dari proyek open source mereka.  
+Kemudian, hanya dalam beberapa tahun saja, React Native telah menjadi andalan bagi banyak developer untuk mengembangkan aplikasi seluler.  
+Beberapa contoh aplikasi seluler yang menggunakan framework React Native adalah Instagram, Facebook, Pinterest, hingga Skype.  
+
+Ada beberapa alasan lain mengapa React Native begitu populer, antara lain:  
+~ Developer hanya perlu membuat satu kode untuk mengembangkan aplikasi berbasis Android atau 
+iOS. Jadi, framework ini benar-benar menghemat waktu.
+~ React Native adalah framework yang dibangun berdasarkan React, 
+yaitu library dari JavaScript yang sudah populer.
+~ Framework ini mendorong frontend developer yang sebelumnya hanya dapat bekerja dengan teknologi berbasis web saja.
+Kini, mereka bisa dengan mudah untuk mengembangkan mobile platform.  
+
+Kelebihan dan Kekurangan dari React Native;  
+
+Memang React Native adalah salah satu pembawa perubahan dalam dunia pengembangan aplikasi seluler.  
+Namun, tetap saja framework yang satu ini juga memiliki kekurangan di samping beragam kelebihan lainnya.  
+
+Berikut ini kelebihan dan kekurangan dari React Native yang perlu kamu pahami, antara lain:  
+Kelebihan  
+1. Hemat biaya  
+Kelebihan pertama dari React Native adalah biaya yang lebih hemat jika dibandingkan dengan proses pengembangan yang lainnya.  
+2. Aplikasi bisa berjalan lebih cepat  
+Sebelumnya banyak yang beranggapan bahwa JavaScript tidak akan bisa membuat aplikasi berjalan lebih cepat seperti saat menggunakan kode dari native.  
+Namun, dalam percobaan yang dilakukan oleh Netguru ditemukan bahwa kinerja dari aplikasi yang menggunakan React Native dan kode native memiliki hasil yang sama.  
+3. Lebih hemat waktu  
+Kelebihan selanjutnya dari React Native adalah bisa menghemat waktu lebih banyak untuk proses pengembangannya.
+Kode dari React Native bisa digunakan kembali tanpa banyak mengubah komponennya. Jadi, proses pengembangan aplikasi seluler pun bisa menjadi lebih cepat.  
+4. Memiliki komunitas pengembang yang besar
+React Native adalah framework JavaScript open source yang memungkinkan para pengembang untuk saling berbagi pengetahuannya.
+Oleh karena itu, saat ada kesulitan saat menggunakan React Native, developer tidak perlu khawatir karena bisa bertanya di komunitas pengembang.
+Selain itu, para pengembang pemula yang ikut komunitas juga mendapatkan keuntungan yaitu bisa meningkatkan kemampuan coding.  
+
+Kekurangan
+1. Kompatibilitas dan debugging
+React Native memang menjadi salah satu framework yang terbilang masih muda. Jadi, saat ini mereka masih dalam fase beta.
+Hal tersebut bisa membuat pengembang menemukan berbagai masalah dengan kompatibilitas dan debugging.
+Jika pengembang tersebut masih belum terlalu mahir dalam menggunakan React Native, tentu akan membuatnya kesulitan untuk memecahkan masalah tersebut.  
+2. Kinerja dan kualitasnya lebih rendah
+Kekurangan dari React Native yang selanjutnya adalah hasil kinerja dan kualitas dari aplikasi yang cukup rendah.
+React Native merupakan pengembangan lintas platform sehingga tidak semua aspek akan membuahkan hasil yang sempurna. Kinerja dan kualitas menjadi salah satu hal yang harus dikorbankan.
+Hal itu berbeda dengan saat menggunakan pengembangan kode native yang tentunya bisa memberikan hasil yang lebih maksimal.
+Itulah mengapa React Native tidak dijadikan pilihan untuk membuat aplikasi yang menjalankan animasi yang berat atau pun game.  
+3. Tetap membutuhkan native developer
+React Native memang memiliki fitur bridging untuk menjembatani JavaScript dan kode native. Akan tetapi, jika perusahaan tidak memiliki native developer tentu akan cukup kesulitan.
+Native developer masih dibutuhkan untuk memasukkan kode native ke dalam basis kode React Native. Jadi, jika pengembang tidak memiliki keterampilan menggunakan kode native tentu akan kebingungan.
+Itulah mengapa masih banyak perusahaan yang akhirnya tetap membutuhkan seorang native developer seperti Android developer atau iOS developer.
+Proses pengembangan pun bisa menjadi lebih rumit karena ada tiga jenis pengembang yang harus mengelola tiga basis kode yang berbeda.
+Bukannya semakin mudah, hal itu malah bisa memakan waktu yang lama dalam proses pengembangan aplikasi seluler.
+
