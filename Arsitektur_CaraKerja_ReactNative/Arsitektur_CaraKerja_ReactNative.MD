@@ -80,7 +80,7 @@ c. Fabric (Rendering System Baru)
 * Respons UI lebih baik dan animasi lebih halus.
 
 #### Perbandingan Arsitektur Lama vs Baru
-```
+
 | Aspek                | Arsitektur Lama (Bridge)     | Arsitektur Baru (Fabric + JSI)                  |
 | -------------------- | ---------------------------- | ----------------------------------------------- |
 | Komunikasi JS-Native | Asinkron, berbasis JSON      | Sinkron, melalui objek langsung (JSI)           |
@@ -88,4 +88,3 @@ c. Fabric (Rendering System Baru)
 | Modularisasi         | Semua native module dimuat   | Hanya modul yang dibutuhkan dimuat              |
 | Rendering            | Sistem rendering lama        | Sistem Fabric (terintegrasi dengan React Fiber) |
 | Dukungan Fitur Baru  | Terbatas                     | Mendukung Concurrent Rendering                  |
-```
